@@ -1,12 +1,8 @@
-# 2. IDE/에디터 관련 규칙
-
 # VSCode 설정 파일 무시
 .vscode/
 
 # IntelliJ IDEA 설정 파일 무시
 .idea/
-
-# 3. 언어 및 프레임워크별 규칙
 
 # Python 관련 파일 무시
 __pycache__/
@@ -38,17 +34,11 @@ yarn-error.log
 *.out
 *.dll
 
-# 4. 환경 설정 파일
-
 # 환경 설정 파일 무시
 .env
 
-# 5. 로그 파일
-
 # 로그 파일 무시
 *.log
-
-# 6. 압축 및 백업 파일
 
 # 압축 및 백업 파일 무시
 *.zip
